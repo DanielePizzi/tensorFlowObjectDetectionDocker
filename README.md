@@ -28,13 +28,4 @@ python detection_demo.py
 
 ## Result
 
-### Detection by Pre-trained model
-![Alt text](detect.jpg?raw=true "image1")
-![Alt text](detect2.jpg?raw=true "image2")
-![Alt text](video.gif?raw=true "video")
-
-### Detection by Custom Trained model
-![Alt text](video2.gif?raw=true "video")
-
-
 
